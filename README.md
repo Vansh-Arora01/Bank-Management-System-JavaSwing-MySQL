@@ -31,6 +31,13 @@ A **fully functional desktop banking application** built using **Java Swing** an
   Central hub that connects all modules with smooth navigation and a Swing-based GUI.
 
 ---
+## **🖼️ Screenshots**
+
+| SignIN1 | SignIN2 | SignIN3 | Deposite | Dashboard | MiniStatement |
+|---|---|---|---|---|---|
+| ![SignIN](screenshots/Signin1.png) | ![SignIN2](screenshots/Signin2.png) | ![SignIN3](screenshots/Signin3.png) | ![Deposite](screenshots/Deposite.png) | ![Dashboard](screenshots/Functions.png) | ![MiniStatement](screenshots/MiniStatement.png) |
+
+---
 
 ## 🧩 Tech Stack
 
