@@ -94,6 +94,6 @@ Connection con = DriverManager.getConnection(
 ## **👨‍💻 Author**
 
 - **VANSH ARORA**
-- 🎓 B.Tech CSE | Aspiring Softaware Engineer
+- 🎓 B.Tech CSE | Aspiring Software Engineer
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vansh-arora01)
  
