@@ -1,5 +1,9 @@
 # 🏦 Bank Management System (Java Swing + MySQL)
 
+[![Java](https://img.shields.io/badge/language-Java-orange?style=for-the-badge&logo=java)](https://www.java.com)
+[![MySQL](https://img.shields.io/badge/database-MySQL-blue?style=for-the-badge&logo=mysql)](https://www.mysql.com)
+[![UI](https://img.shields.io/badge/UI-Java%20Swing-red?style=for-the-badge&logo=openjdk)](https://en.wikipedia.org/wiki/Swing_(Java))
+
 A **fully functional desktop banking application** built using **Java Swing** and **MySQL**, providing all major banking operations — from account creation to secure fund transfers — through an easy-to-use graphical interface.
 
 ---
